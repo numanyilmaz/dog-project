@@ -2,6 +2,7 @@
 
 Convolutional Neural Networks (CNN) project in the Machine Learning Engineering nanodegree.
 
+
 ### Project Design
 The project broke into separate steps. 
 
